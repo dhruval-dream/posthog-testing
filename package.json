@@ -1,0 +1,21 @@
+{
+  "name": "vite-lit-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@dreamworld/dw-button": "^3.0.5",
+    "@dreamworld/dw-dialog": "^5.7.14",
+    "@dreamworld/dw-input": "^4.1.27",
+    "lit": "^3.3.0",
+    "posthog-js": "^1.257.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.3"
+  }
+}
